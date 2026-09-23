@@ -27,6 +27,12 @@ Produto de balança (carne, frios, padaria com etiqueta da loja) não entra, por
 - Só o produto, de frente, sem preço, sem logo de loja e sem marca d'água
 - Uma imagem por código de barras. Achou uma melhor que a atual? Substitua o arquivo e explique no envio.
 
+## Embalagem nova
+
+Quando a marca muda o visual da embalagem, o código de barras continua o mesmo e a foto do acervo fica velha. Mande a foto nova com o **mesmo nome de arquivo**, na mesma pasta, e ela substitui a antiga. Atualize a `data` da linha no `catalogo.csv` e diga no envio que é troca de embalagem.
+
+Se mudou o peso ou o volume (ex.: 400 g virou 395 g), normalmente o código de barras também muda. Aí é produto novo: arquivo novo e linha nova no catálogo.
+
 ## Conferência automática
 
 Todo envio passa pelo `ferramentas/conferir.py`, que barra código de barras inválido (o último dígito confere os outros), imagem fora do padrão, pasta errada e imagem sem cadastro. Para rodar no seu computador:
