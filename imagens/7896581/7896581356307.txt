@@ -1,5 +1,6 @@
 descricao: MEIO DA ASA TEMP.IQF PIF PAF 1KG
 marca: Pif Paf
 conteudo: 1 kg
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

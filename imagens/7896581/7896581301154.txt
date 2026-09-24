@@ -1,5 +1,6 @@
 descricao: HAMBURGUER PIF PAF CX 672GR FRANGO
 marca: Pif Paf
 conteudo: 672 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

@@ -1,5 +1,6 @@
 descricao: PD.FILE PEITO FRANGO DESFIADO KG.
 marca: 
 conteudo: 
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

@@ -1,5 +1,6 @@
 descricao: FILE DE PEITO PIF PAF SC 400GR DESF
 marca: Pif Paf
 conteudo: 400 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

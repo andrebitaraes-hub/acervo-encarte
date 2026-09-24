@@ -1,5 +1,6 @@
 descricao: LING.PIF PAF TP CALABRESA 500GR
 marca: Pif Paf
 conteudo: 500 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

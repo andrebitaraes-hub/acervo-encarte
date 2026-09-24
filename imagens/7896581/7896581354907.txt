@@ -1,5 +1,6 @@
 descricao: LING.PIF PAF MINEIRA PORCO 800G PIM
 marca: Pif Paf
 conteudo: 800 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

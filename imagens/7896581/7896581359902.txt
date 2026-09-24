@@ -1,5 +1,6 @@
 descricao: PEIXE DESF.SAITHE SC 300GR POLACA
 marca: 
 conteudo: 300 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

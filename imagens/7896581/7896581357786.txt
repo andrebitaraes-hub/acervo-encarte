@@ -1,5 +1,6 @@
 descricao: HAMBURGUER PIF PAF SC 56GR MISTO
 marca: Pif Paf
 conteudo: 56 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

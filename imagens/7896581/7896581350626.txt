@@ -1,5 +1,6 @@
 descricao: EMPANADO PIF PAF 300GR PAFITOS
 marca: Pif Paf
 conteudo: 300 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

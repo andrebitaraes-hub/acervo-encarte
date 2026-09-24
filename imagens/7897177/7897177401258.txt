@@ -1,5 +1,6 @@
 descricao: SALAME PIF PAF ITALIANO ART.FAT.90G
 marca: Pif Paf
 conteudo: 90 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente
