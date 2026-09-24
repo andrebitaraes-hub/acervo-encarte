@@ -1,0 +1,82 @@
+name: Aprovar envio conferido
+# Junta sozinho o envio que: vem de conta de confiança (.github/contas-confiaveis.txt),
+# só ACRESCENTA arquivos em imagens/ ou granel/, não tem origem "a confirmar"
+# e passa na conferência OFICIAL (as ferramentas da main, nunca as do envio).
+# Qualquer outra coisa fica para o André aprovar à mão.
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+concurrency:
+  group: aprovar-envio
+  cancel-in-progress: false
+permissions: {}
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      automatico: ${{ steps.regras.outputs.automatico }}
+    steps:
+      - name: Ferramentas oficiais (main)
+        uses: actions/checkout@v4
+        with:
+          path: base
+          persist-credentials: false
+      - name: Arquivos do envio (só como dados)
+        uses: actions/checkout@v4
+        with:
+          path: envio
+          ref: ${{ github.event.pull_request.head.sha }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Regras para entrar sozinho
+        id: regras
+        working-directory: envio
+        env:
+          AUTOR: ${{ github.event.pull_request.user.login }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          REPO: ${{ github.repository }}
+        run: |
+          git fetch -q "https://github.com/$REPO" "$BASE_SHA"
+          bash ../base/ferramentas/regras_envio.sh
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Conferência oficial sobre os arquivos do envio
+        run: |
+          pip install -q pillow
+          rm -rf envio/ferramentas && cp -r base/ferramentas envio/ferramentas
+          cd envio && python ferramentas/conferir.py && python ferramentas/conferir_granel.py
+
+  juntar:
+    needs: conferir
+    if: needs.conferir.outputs.automatico == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Juntar exatamente a versão conferida
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+          SHA: ${{ github.event.pull_request.head.sha }}
+          REPO: ${{ github.repository }}
+        run: gh pr merge "$PR" --squash --match-head-commit "$SHA" --repo "$REPO"
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Remontar os catálogos
+        # O merge feito pela automação não dispara o conferir.yml, então remonta aqui.
+        run: |
+          pip install -q pillow
+          python ferramentas/montar_catalogo.py && python ferramentas/montar_catalogo_granel.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogo.csv catalogo_granel.csv
+          git diff --cached --quiet || (git commit -m "Atualiza catálogos" && git push)

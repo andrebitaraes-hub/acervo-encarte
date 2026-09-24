@@ -89,3 +89,14 @@ Todo envio passa pelo `ferramentas/conferir.py`, que barra código de barras inv
 pip install pillow
 python3 ferramentas/conferir.py
 ```
+
+## Quando o envio entra sozinho
+
+O envio entra no acervo sem esperar aprovação quando cumpre **tudo** isto:
+
+- vem de uma conta da lista de confiança (`.github/contas-confiaveis.txt`);
+- só **acrescenta** fotos e fichas em `imagens/` ou `granel/`, sem trocar nem apagar nada que já existe;
+- nenhuma ficha nova tem origem `a confirmar`;
+- passa na conferência oficial. Ela roda sempre as ferramentas do repositório, nunca uma versão que venha junto com o envio.
+
+Qualquer outro envio fica para o André aprovar: troca de embalagem, exclusão, conta fora da lista, mudança nas regras. Quem quiser entrar na lista de confiança é só pedir.
