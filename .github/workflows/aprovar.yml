@@ -31,6 +31,9 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           persist-credentials: false
           fetch-depth: 0
+          # Seguro aqui: nada do envio é executado — as ferramentas vêm da main e
+          # substituem as do envio; esta etapa só tem leitura e nenhum segredo.
+          allow-unsafe-pr-checkout: true
       - name: Regras para entrar sozinho
         id: regras
         working-directory: envio
