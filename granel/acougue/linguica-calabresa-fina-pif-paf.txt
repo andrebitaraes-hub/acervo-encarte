@@ -1,0 +1,5 @@
+nome: Linguiça calabresa fina Pif Paf
+apelidos: LING.PIF PAF TP.CALABRESA FINA KG
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
+enviado_por: Rede Valente

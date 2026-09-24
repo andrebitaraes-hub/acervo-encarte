@@ -1,0 +1,5 @@
+nome: Salsicha hot dog Pif Paf
+apelidos: SALSICHA HOT DOG PIF PAF KG L
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
+enviado_por: Rede Valente

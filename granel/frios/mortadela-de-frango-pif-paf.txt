@@ -1,0 +1,5 @@
+nome: Mortadela de frango Pif Paf
+apelidos: MORTADELA PIF PAF FRANGO KG
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
+enviado_por: Rede Valente
