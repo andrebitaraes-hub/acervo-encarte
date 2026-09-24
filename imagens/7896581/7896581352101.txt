@@ -1,0 +1,5 @@
+descricao: MORTADELA PIF PAF 400GR TRADICAO
+marca: Pif Paf
+conteudo: 400 g
+origem: a confirmar
+enviado_por: Rede Valente

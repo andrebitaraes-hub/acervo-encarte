@@ -40,6 +40,8 @@ O repositório é público, então só entra foto que pode ser usada:
 
 Foto do Cosmos, de portal de indústria ou de site de fornecedor sem autorização não entra.
 
+**Durante o teste da ferramenta**, também é aceito `origem: a confirmar`. A foto entra, mas fica marcada como pendência no catálogo até alguém preencher a origem certa.
+
 ## Padrão da imagem
 
 - Formato **WEBP com fundo transparente** (recomendado: fica bem menor), PNG ou JPG

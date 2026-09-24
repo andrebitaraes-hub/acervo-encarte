@@ -1,0 +1,5 @@
+descricao: DESINF.MAYOR 1LT PINHO
+marca: 
+conteudo: 1 L
+origem: a confirmar
+enviado_por: Rede Valente

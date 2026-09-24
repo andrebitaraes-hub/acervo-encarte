@@ -20,6 +20,8 @@ LADO_MAX = 1500
 CAMPOS = ["descricao", "marca", "conteudo", "origem", "autorizacao", "enviado_por"]
 OBRIGATORIOS = ["descricao", "origem", "enviado_por"]
 ORIGENS = {"propria", "industria", "site"}
+# Aceito só durante o teste da ferramenta: entra, mas aparece como pendência.
+A_CONFIRMAR = "a confirmar"
 
 
 def ean_valido(codigo: str) -> bool:
@@ -54,6 +56,8 @@ def conferir_ficha(arq: Path, rel: Path) -> list:
         if not ficha.get(campo):
             erros.append(f"{rel}: falta preencher '{campo}'")
     origem = ficha.get("origem", "").lower()
+    if origem == A_CONFIRMAR:
+        return erros
     if origem and origem not in ORIGENS:
         erros.append(f"{rel}: origem '{origem}' não vale, use propria, industria ou site")
     elif origem in ("industria", "site") and not ficha.get("autorizacao"):
@@ -107,6 +111,9 @@ def main() -> int:
     for ean in com_ficha - com_imagem.keys():
         erros.append(f"imagens/{pasta_do(ean)}/{ean}.txt: ficha sem imagem")
 
+    pendentes = sum(1 for f in PASTA.rglob("*.txt") if ler_ficha(f).get("origem", "").lower() == A_CONFIRMAR)
+    if pendentes:
+        print(f"Aviso: {pendentes} foto(s) com origem 'a confirmar'.")
     if erros:
         print(f"{len(erros)} problema(s):")
         for e in erros:

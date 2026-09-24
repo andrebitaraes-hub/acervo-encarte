@@ -1,0 +1,5 @@
+descricao: PIZZA PIF PAF 460GR MUSSARELA
+marca: Pif Paf
+conteudo: 460 g
+origem: a confirmar
+enviado_por: Rede Valente

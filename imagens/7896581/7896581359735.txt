@@ -1,0 +1,5 @@
+descricao: ALIM.CAO U.MASTIGATE 100G AD.CARNE
+marca: 
+conteudo: 100 g
+origem: a confirmar
+enviado_por: Rede Valente

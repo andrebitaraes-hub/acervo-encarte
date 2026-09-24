@@ -1,0 +1,5 @@
+descricao: STEAK FRANGO PIF PAF 100GR
+marca: Pif Paf
+conteudo: 100 g
+origem: a confirmar
+enviado_por: Rede Valente
