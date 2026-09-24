@@ -1,0 +1,5 @@
+nome: Costela do Chef Pif Paf
+apelidos: Costela suína Pif Paf; CARNE SUINA-COSTELA PIF PAF TP KG
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
+enviado_por: Rede Valente
