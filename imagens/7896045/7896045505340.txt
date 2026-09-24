@@ -1,5 +1,6 @@
 descricao: CERVEJA AMSTEL LT 473ML P.MALTE
 marca: 
 conteudo: 473 ml
-origem: a confirmar
+origem: site
+autorizacao: gerente comercial Jeremias
 enviado_por: Rede Valente

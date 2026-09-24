@@ -1,5 +1,6 @@
 descricao: OLEO SOJA VITALIV PET 900ML
 marca: 
 conteudo: 900 ml
-origem: a confirmar
+origem: site
+autorizacao: gerente comercial Jeremias
 enviado_por: Rede Valente

@@ -1,5 +1,6 @@
 descricao: REFRIG.COCA COLA 2LT
 marca: 
 conteudo: 2 L
-origem: a confirmar
+origem: site
+autorizacao: gerente comercial Jeremias
 enviado_por: Rede Valente

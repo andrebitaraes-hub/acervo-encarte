@@ -1,5 +1,6 @@
 descricao: LEITE L.V.PIRAC.1LT SEMI DESNATADO/DESNATADO
 marca: 
 conteudo: 1 L
-origem: a confirmar
+origem: site
+autorizacao: gerente comercial Jeremias
 enviado_por: Rede Valente
