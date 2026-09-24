@@ -1,0 +1,4 @@
+nome: Músculo bovino
+apelidos: Músculo bovino peça/pedaço; Músculo
+origem: ia
+enviado_por: Mercopaulo

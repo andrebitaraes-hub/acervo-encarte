@@ -1,0 +1,4 @@
+nome: Patinho bovino resfriado
+apelidos: Patinho bovino; Patinho
+origem: ia
+enviado_por: Mercopaulo

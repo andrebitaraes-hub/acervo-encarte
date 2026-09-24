@@ -1,0 +1,4 @@
+nome: Costela bovina resfriada
+apelidos: Costela bovina; Costela de boi
+origem: ia
+enviado_por: Mercopaulo

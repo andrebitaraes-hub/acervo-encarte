@@ -1,0 +1,4 @@
+nome: Filé de peito resfriado
+apelidos: Filé de peito; Filé de frango; Peito de frango sem osso
+origem: ia
+enviado_por: Mercopaulo
