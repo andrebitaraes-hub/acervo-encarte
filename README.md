@@ -6,7 +6,7 @@ Banco de imagens de produto da comunidade Varejo Tech, para todo mundo montar en
 
 **Só entra produto com código de barras (EAN).** O nome do produto muda de loja para loja; o código de barras é o mesmo em qualquer lugar. Por isso a imagem se chama pelo código, e não pelo nome.
 
-Produto de balança (carne, frios, padaria com etiqueta da loja) não entra, porque o código é interno de cada mercado.
+Produto de balança (carne, frios, padaria com etiqueta da loja) não entra em `imagens/`, porque o código é interno de cada mercado. Ele tem a pasta própria `granel/`, explicada mais abaixo.
 
 ## Como mandar uma imagem
 
@@ -55,6 +55,31 @@ Foto do Cosmos, de portal de indústria ou de site de fornecedor sem autorizaç�
 Quando a marca muda o visual da embalagem, o código de barras continua o mesmo e a foto do acervo fica velha. Mande a foto nova com o **mesmo nome de arquivo**, na mesma pasta, e ela substitui a antiga. Diga no envio que é troca de embalagem.
 
 Se mudou o peso ou o volume (ex.: 400 g virou 395 g), normalmente o código de barras também muda. Aí é produto novo: foto e ficha novas.
+
+## Produto a granel (sem código de barras)
+
+Carne, frango, peixe, fruta, verdura, frios fatiados, pão francês: não têm código de barras, mas aparecem em todo encarte. Eles ficam na pasta `granel/`, separados por categoria, e o nome do arquivo vem do **nome do produto**:
+
+```
+granel/acougue/file-de-peito-resfriado.webp   ← a foto
+granel/acougue/file-de-peito-resfriado.txt    ← a ficha
+```
+
+Categorias: `acougue`, `aves`, `peixaria`, `hortifruti`, `frios`, `padaria`, `outros`.
+
+O nome do arquivo é o campo `nome` da ficha em minúsculo, sem acento e com hífen no lugar do espaço ("Filé de peito resfriado" → `file-de-peito-resfriado`). A ficha:
+
+```
+nome: Filé de peito resfriado
+apelidos: Filé de frango; Peito de frango sem osso
+origem: ia
+enviado_por: Mercopaulo
+```
+
+- **`apelidos`**: outros nomes pelos quais o mesmo produto aparece nas listas de oferta, separados por ponto e vírgula. Cada mercado chama o corte de um jeito ("acém", "peito reserva", "paleta"); é pelo nome e pelos apelidos que o agente acha a foto. Um apelido não pode repetir em dois produtos.
+- **`origem`**: `propria` (foto sua), `ia` (gerada por IA e conferida por quem enviou), `industria` ou `site` (só com `autorizacao:`). Durante o teste, `a confirmar` também vale.
+- **Padrão da imagem**: o mesmo das fotos com código de barras (fundo transparente, lado maior entre 800 e 1500 px, até 1,5 MB, WEBP de preferência). Só o produto, pode ser sobre tábua ou bandeja, sem preço e sem logo de loja.
+- **Conferir antes de mandar**: `python3 ferramentas/conferir_granel.py`. O `catalogo_granel.csv` é montado sozinho, como o `catalogo.csv`.
 
 ## Conferência automática
 

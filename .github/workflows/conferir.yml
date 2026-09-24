@@ -12,11 +12,13 @@ jobs:
           python-version: "3.12"
       - run: pip install pillow
       - run: python ferramentas/conferir.py
+      - run: python ferramentas/conferir_granel.py
       - name: Refazer o catalogo.csv
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           python ferramentas/montar_catalogo.py
+          python ferramentas/montar_catalogo_granel.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalogo.csv
-          git diff --cached --quiet || (git commit -m "Atualiza catalogo.csv" && git push)
+          git add catalogo.csv catalogo_granel.csv
+          git diff --cached --quiet || (git commit -m "Atualiza catálogos" && git push)
