@@ -1,5 +1,6 @@
 descricao: MAC.BARBALHO SEMOLA 500GR ESPAG.N8
 marca: 
 conteudo: 500 g
-origem: a confirmar
+origem: industria
+autorizacao: Barbalho Alimentos / Mayor Química, banco de imagens para clientes
 enviado_por: Rede Valente

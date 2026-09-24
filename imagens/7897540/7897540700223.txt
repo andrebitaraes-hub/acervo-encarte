@@ -1,5 +1,6 @@
 descricao: ARROZ BARBALHO TP1 5KG
 marca: 
 conteudo: 5 kg
-origem: a confirmar
+origem: industria
+autorizacao: Barbalho Alimentos / Mayor Química, banco de imagens para clientes
 enviado_por: Rede Valente

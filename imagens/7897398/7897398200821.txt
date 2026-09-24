@@ -1,5 +1,6 @@
 descricao: LIMP.MAYOR CLEAN 2LT LIMPEZA PROFU.
 marca: 
 conteudo: 2 L
-origem: a confirmar
+origem: industria
+autorizacao: Barbalho Alimentos / Mayor Química, banco de imagens para clientes
 enviado_por: Rede Valente
