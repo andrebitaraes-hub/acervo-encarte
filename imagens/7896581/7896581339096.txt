@@ -1,5 +1,6 @@
 descricao: BATATA CONG.PIF PAF 2KG PALITO
 marca: Pif Paf
 conteudo: 2 kg
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

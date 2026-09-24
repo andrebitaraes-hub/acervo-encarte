@@ -1,5 +1,6 @@
 descricao: PIZZA PIF PAF 460GR CALABRESA
 marca: Pif Paf
 conteudo: 460 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

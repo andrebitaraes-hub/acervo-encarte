@@ -1,5 +1,6 @@
 descricao: PRESUNTO PIF PAF FATIADO 180GR
 marca: Pif Paf
 conteudo: 180 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

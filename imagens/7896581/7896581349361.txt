@@ -1,5 +1,6 @@
 descricao: TIRINHA PIF PAF FRANGO 1.5KG
 marca: Pif Paf
 conteudo: 1,5 kg
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

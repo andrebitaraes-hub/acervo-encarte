@@ -1,5 +1,6 @@
 descricao: ESCONDIDINHO PIF PAF 350GR FRANGO
 marca: Pif Paf
 conteudo: 350 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente

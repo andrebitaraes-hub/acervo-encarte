@@ -1,5 +1,6 @@
 descricao: BACON DEFUMADO PIF PAF 200GR CUBOS
 marca: Pif Paf
 conteudo: 200 g
-origem: a confirmar
+origem: industria
+autorizacao: Pif Paf, portal PackShelf para clientes
 enviado_por: Rede Valente
