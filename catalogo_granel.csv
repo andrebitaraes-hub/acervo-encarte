@@ -1,1 +1,9 @@
 id,categoria,nome,apelidos,origem,autorizacao,enviado_por,imagem
+acem-paleta-ou-peito-reserva,acougue,"Acém, paleta ou peito reserva","Acém, paleta ou peito reserva peça/pedaço; Acém; Paleta bovina; Peito reserva",ia,,Mercopaulo,granel/acougue/acem-paleta-ou-peito-reserva.webp
+costela-bovina-resfriada,acougue,Costela bovina resfriada,Costela bovina; Costela de boi,ia,,Mercopaulo,granel/acougue/costela-bovina-resfriada.webp
+costela-suina-resfriada,acougue,Costela suína resfriada,Costela suína; Costela de porco,ia,,Mercopaulo,granel/acougue/costela-suina-resfriada.webp
+lombo-suino-resfriado,acougue,Lombo suíno resfriado,Lombo suíno; Lombo de porco,ia,,Mercopaulo,granel/acougue/lombo-suino-resfriado.webp
+musculo-bovino,acougue,Músculo bovino,Músculo bovino peça/pedaço; Músculo,ia,,Mercopaulo,granel/acougue/musculo-bovino.webp
+patinho-bovino-resfriado,acougue,Patinho bovino resfriado,Patinho bovino; Patinho,ia,,Mercopaulo,granel/acougue/patinho-bovino-resfriado.webp
+coxa-e-sobrecoxa-resfriada,aves,Coxa e sobrecoxa resfriada,Coxa sobrecoxa resfriada; Coxa sobrecoxa; Coxa e sobrecoxa de frango,ia,,Mercopaulo,granel/aves/coxa-e-sobrecoxa-resfriada.webp
+file-de-peito-resfriado,aves,Filé de peito resfriado,Filé de peito; Filé de frango; Peito de frango sem osso,ia,,Mercopaulo,granel/aves/file-de-peito-resfriado.webp
