@@ -2,6 +2,8 @@
 
 Banco de imagens de produto da comunidade Varejo Tech, para todo mundo montar encarte com foto de qualidade e o agente de encarte achar a imagem pelo código de barras.
 
+**Usa o agente de encarte (Gondola)?** Instale o [`agente/`](agente/README.md): ele faz o agente procurar a foto aqui antes de gastar com a IA, e devolver ao acervo as fotos novas que você aprovar. Um comando só.
+
 ## A regra principal
 
 **Só entra produto com código de barras (EAN).** O nome do produto muda de loja para loja; o código de barras é o mesmo em qualquer lugar. Por isso a imagem se chama pelo código, e não pelo nome.
