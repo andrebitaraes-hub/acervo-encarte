@@ -1,0 +1,6 @@
+descricao: Macarrão com ovos Vilma Espaguete nº 8 500g
+marca: Vilma
+conteudo: 500 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
