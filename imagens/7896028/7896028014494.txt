@@ -1,0 +1,6 @@
+descricao: Leite de coco Menina vidro 200ml
+marca: Menina
+conteudo: 200 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

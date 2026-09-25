@@ -1,0 +1,6 @@
+descricao: Pão de forma Visconti Tradicional 400g
+marca: Visconti
+conteudo: 400 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
