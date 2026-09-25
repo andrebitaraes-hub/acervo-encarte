@@ -1,0 +1,6 @@
+descricao: Torrada Bauducco Tradicional 142g
+marca: Bauducco
+conteudo: 142 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

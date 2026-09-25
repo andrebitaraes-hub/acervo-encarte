@@ -1,0 +1,6 @@
+descricao: Café Santa Cecília Tradicional 500g
+marca: Santa Cecília
+conteudo: 500 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

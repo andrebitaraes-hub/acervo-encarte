@@ -1,0 +1,6 @@
+descricao: Café Santa Cecília Extra Forte 500g
+marca: Santa Cecília
+conteudo: 500 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

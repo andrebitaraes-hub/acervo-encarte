@@ -1,0 +1,6 @@
+descricao: Pão para hot dog Pan Neves 600g
+marca: Pan Neves
+conteudo: 600 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

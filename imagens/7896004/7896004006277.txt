@@ -1,0 +1,6 @@
+descricao: Batata Pringles Original 104g
+marca: Pringles
+conteudo: 104 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

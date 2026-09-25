@@ -1,0 +1,6 @@
+descricao: Biscoito Aymoré Tortini Trufa 90g
+marca: Aymoré
+conteudo: 90 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
