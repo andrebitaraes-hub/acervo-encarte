@@ -1,0 +1,6 @@
+descricao: Cerveja Skol Beats Senses lata 269ml
+marca: Skol
+conteudo: 269 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
