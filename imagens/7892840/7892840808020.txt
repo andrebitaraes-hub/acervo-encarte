@@ -1,0 +1,6 @@
+descricao: Isotônico Gatorade laranja PET 500ml
+marca: Gatorade
+conteudo: 500 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
