@@ -1,0 +1,6 @@
+descricao: Cerveja Original lata 473ml
+marca: Original
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

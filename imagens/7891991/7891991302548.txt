@@ -1,0 +1,6 @@
+descricao: Cerveja Michelob Ultra long neck 330ml
+marca: Michelob
+conteudo: 330 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

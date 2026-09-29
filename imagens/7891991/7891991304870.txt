@@ -1,0 +1,6 @@
+descricao: Cerveja Stella Artois Pure Gold long neck 330ml
+marca: Stella Artois
+conteudo: 330 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
