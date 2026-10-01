@@ -1,0 +1,6 @@
+descricao: Cerveja Michelob Ultra lata sleek 350ml
+marca: Michelob
+conteudo: 350 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
