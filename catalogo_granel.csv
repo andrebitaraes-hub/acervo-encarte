@@ -1,12 +1,21 @@
 id,categoria,nome,apelidos,origem,autorizacao,enviado_por,imagem
 acem-paleta-ou-peito-reserva,acougue,"Acém, paleta ou peito reserva","Acém, paleta ou peito reserva peça/pedaço; Acém; Paleta bovina; Peito reserva",ia,,Mercopaulo,granel/acougue/acem-paleta-ou-peito-reserva.webp
+bife-ancho-maturatta-friboi,acougue,Bife ancho Maturatta Friboi,Bife ancho resfriado Maturatta; Entrecôte Maturatta,a confirmar,,Mercopaulo,granel/acougue/bife-ancho-maturatta-friboi.webp
+contra-file-resfriado,acougue,Contra filé resfriado,Contra filé; Contra filé peça/pedaço; Contra filé do Cheff,a confirmar,,Mercopaulo,granel/acougue/contra-file-resfriado.webp
 costela-bovina-resfriada,acougue,Costela bovina resfriada,Costela bovina; Costela de boi,ia,,Mercopaulo,granel/acougue/costela-bovina-resfriada.webp
 costela-do-chef-pif-paf,acougue,Costela do Chef Pif Paf,Costela suína Pif Paf; CARNE SUINA-COSTELA PIF PAF TP KG,industria,"Pif Paf, portal PackShelf para clientes",Rede Valente,granel/acougue/costela-do-chef-pif-paf.webp
 costela-suina-resfriada,acougue,Costela suína resfriada,Costela suína; Costela de porco,ia,,Mercopaulo,granel/acougue/costela-suina-resfriada.webp
+coxao-mole-resfriado,acougue,Coxão mole resfriado,Coxão mole; Coxão mole reserva peça/pedaço; Chã de dentro,a confirmar,,Mercopaulo,granel/acougue/coxao-mole-resfriado.webp
+fraldinha-friboi,acougue,Fraldinha Friboi,Fraldinha resfriada Friboi; Fralda Friboi,a confirmar,,Mercopaulo,granel/acougue/fraldinha-friboi.webp
 linguica-calabresa-fina-pif-paf,acougue,Linguiça calabresa fina Pif Paf,LING.PIF PAF TP.CALABRESA FINA KG,industria,"Pif Paf, portal PackShelf para clientes",Rede Valente,granel/acougue/linguica-calabresa-fina-pif-paf.webp
+linguica-toscana-ciacarne,acougue,Linguiça toscana Ciacarne,Linguiça toscana Ciacarne kg,a confirmar,,Mercopaulo,granel/acougue/linguica-toscana-ciacarne.webp
 lombo-suino-resfriado,acougue,Lombo suíno resfriado,Lombo suíno; Lombo de porco,ia,,Mercopaulo,granel/acougue/lombo-suino-resfriado.webp
 musculo-bovino,acougue,Músculo bovino,Músculo bovino peça/pedaço; Músculo,ia,,Mercopaulo,granel/acougue/musculo-bovino.webp
 patinho-bovino-resfriado,acougue,Patinho bovino resfriado,Patinho bovino; Patinho,ia,,Mercopaulo,granel/acougue/patinho-bovino-resfriado.webp
+pernil-suino-resfriado,acougue,Pernil suíno resfriado,Pernil suíno; Pernil suíno peça/pedaço; Pernil de porco,a confirmar,,Mercopaulo,granel/acougue/pernil-suino-resfriado.webp
+picanha-friboi,acougue,Picanha Friboi,Picanha resfriada Friboi,a confirmar,,Mercopaulo,granel/acougue/picanha-friboi.webp
+toucinho-com-carne-resfriado,acougue,Toucinho com carne resfriado,Toucinho com carne; Barriga suína; Panceta,a confirmar,,Mercopaulo,granel/acougue/toucinho-com-carne-resfriado.webp
+asa-de-frango-resfriada,aves,Asa de frango resfriada,Asa resfriada; Asa de frango,a confirmar,,Mercopaulo,granel/aves/asa-de-frango-resfriada.webp
 coxa-e-sobrecoxa-resfriada,aves,Coxa e sobrecoxa resfriada,Coxa sobrecoxa resfriada; Coxa sobrecoxa; Coxa e sobrecoxa de frango,ia,,Mercopaulo,granel/aves/coxa-e-sobrecoxa-resfriada.webp
 file-de-peito-resfriado,aves,Filé de peito resfriado,Filé de peito; Filé de frango; Peito de frango sem osso,ia,,Mercopaulo,granel/aves/file-de-peito-resfriado.webp
 apresuntado-pif-paf-retangular,frios,Apresuntado Pif Paf retangular,Apresuntado Pif Paf; APRESUNTADO PIF PAF RETANGULAR KG,industria,"Pif Paf, portal PackShelf para clientes",Rede Valente,granel/frios/apresuntado-pif-paf-retangular.webp
