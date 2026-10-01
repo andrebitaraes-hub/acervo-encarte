@@ -1,0 +1,4 @@
+nome: Banana prata
+apelidos: Banana prata kg; Banana prata climatizada
+origem: a confirmar
+enviado_por: Mercopaulo
