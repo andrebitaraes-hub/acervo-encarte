@@ -1,0 +1,6 @@
+descricao: Ovos caipira Love Eggs (Ovos Solidários) tipo grande cartela 20 unidades
+marca: Love Eggs
+conteudo: 20 unidades
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
