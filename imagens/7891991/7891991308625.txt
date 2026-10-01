@@ -1,0 +1,6 @@
+descricao: Cerveja Brahma Zero Álcool lata 473ml
+marca: Brahma
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

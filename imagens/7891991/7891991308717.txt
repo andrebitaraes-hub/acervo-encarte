@@ -1,0 +1,6 @@
+descricao: Cerveja Michelob Ultra lata 473ml
+marca: Michelob
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
