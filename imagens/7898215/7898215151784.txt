@@ -1,0 +1,6 @@
+descricao: Creme de leite Piracanjuba 200g
+marca: Piracanjuba
+conteudo: 200 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

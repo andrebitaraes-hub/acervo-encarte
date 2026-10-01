@@ -1,0 +1,6 @@
+descricao: Açúcar refinado União 1kg
+marca: União
+conteudo: 1 kg
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

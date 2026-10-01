@@ -1,0 +1,6 @@
+descricao: Leite condensado Italac semidesnatado 395g
+marca: Italac
+conteudo: 395 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

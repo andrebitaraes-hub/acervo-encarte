@@ -1,0 +1,6 @@
+descricao: Batata chips lisa Feita alho na manteiga 150g
+marca: Feita
+conteudo: 150 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
