@@ -1,0 +1,6 @@
+descricao: Milho verde Stella d'Oro lata 170g
+marca: Stella d'Oro
+conteudo: 170 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
