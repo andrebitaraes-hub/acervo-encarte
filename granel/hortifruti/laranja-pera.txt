@@ -1,4 +1,4 @@
 nome: Laranja pera
 apelidos: Laranja pera rio; Laranja pera kg
-origem: a confirmar
+origem: ia
 enviado_por: Mercopaulo
