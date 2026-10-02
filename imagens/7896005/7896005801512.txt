@@ -1,0 +1,6 @@
+descricao: Café 3 Corações Extraforte 250g
+marca: 3 Corações
+conteudo: 250 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

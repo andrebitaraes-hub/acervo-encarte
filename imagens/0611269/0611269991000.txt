@@ -1,0 +1,6 @@
+descricao: Energético Red Bull Energy Drink lata 250ml
+marca: Red Bull
+conteudo: 250 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

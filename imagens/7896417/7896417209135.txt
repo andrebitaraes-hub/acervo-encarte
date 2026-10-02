@@ -1,0 +1,6 @@
+descricao: Mistura para bolo Vilma chocolate 400g
+marca: Vilma
+conteudo: 400 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

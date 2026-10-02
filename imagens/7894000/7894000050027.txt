@@ -1,0 +1,6 @@
+descricao: Maionese Hellmann's 250g
+marca: Hellmann's
+conteudo: 250 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

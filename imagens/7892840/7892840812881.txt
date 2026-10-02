@@ -1,0 +1,6 @@
+descricao: Refrigerante H2OH! Limoneto PET 1,5L
+marca: H2OH!
+conteudo: 1,5 L
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
