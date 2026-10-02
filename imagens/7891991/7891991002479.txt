@@ -1,6 +1,6 @@
 descricao: Refrigerante Guaraná Antarctica Zero PET 2L
 marca: Antarctica
 conteudo: 2 L
-origem: ia
+origem: a confirmar
 autorizacao: 
 enviado_por: Mercopaulo
