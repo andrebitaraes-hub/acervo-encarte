@@ -1,0 +1,6 @@
+descricao: Cerveja Flying Fish Pressed Lemon lata 350ml
+marca: Flying Fish
+conteudo: 350 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

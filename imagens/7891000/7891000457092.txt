@@ -1,0 +1,6 @@
+descricao: Caixa de bombons sortidos Garoto 220g
+marca: Garoto
+conteudo: 220 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

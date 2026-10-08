@@ -1,0 +1,6 @@
+descricao: Refrigerante Pepsi PET 2L
+marca: Pepsi
+conteudo: 2 L
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

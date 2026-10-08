@@ -1,0 +1,6 @@
+descricao: Cerveja Heineken lata 473ml
+marca: Heineken
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

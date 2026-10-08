@@ -1,0 +1,6 @@
+descricao: Cereal matinal Sucrilhos Kellogg's Original leve 240g pague 200g
+marca: Kellogg's
+conteudo: 240 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
