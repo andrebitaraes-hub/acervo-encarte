@@ -19,7 +19,8 @@ LADO_MIN = 800
 LADO_MAX = 1500
 CAMPOS = ["descricao", "marca", "conteudo", "origem", "autorizacao", "enviado_por"]
 OBRIGATORIOS = ["descricao", "origem", "enviado_por"]
-ORIGENS = {"propria", "industria", "site"}
+# cosmos = foto do Bluesoft Cosmos; cosmos-ampliada = a mesma, aumentada por IA (liberado pelo André em 09/10/2026)
+ORIGENS = {"propria", "industria", "site", "cosmos", "cosmos-ampliada"}
 # Aceito só durante o teste da ferramenta: entra, mas aparece como pendência.
 A_CONFIRMAR = "a confirmar"
 
@@ -59,7 +60,7 @@ def conferir_ficha(arq: Path, rel: Path) -> list:
     if origem == A_CONFIRMAR:
         return erros
     if origem and origem not in ORIGENS:
-        erros.append(f"{rel}: origem '{origem}' não vale, use propria, industria ou site")
+        erros.append(f"{rel}: origem '{origem}' não vale, use propria, industria, site, cosmos ou cosmos-ampliada")
     elif origem in ("industria", "site") and not ficha.get("autorizacao"):
         erros.append(f"{rel}: foto de {origem} precisa dizer em 'autorizacao' quem autorizou")
     return erros

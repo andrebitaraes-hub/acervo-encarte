@@ -31,7 +31,7 @@ CAND = RAIZ / 'acervo-candidatos'
 CAND_G = CAND / 'granel'
 ACERVO = Path.home() / 'Documents/acervo-encarte'
 REPO = 'andrebitaraes-hub/acervo-encarte'
-ORIGENS = {'propria', 'industria', 'site', 'a confirmar'}
+ORIGENS = {'propria', 'industria', 'site', 'cosmos', 'cosmos-ampliada', 'a confirmar'}
 ORIGENS_GRANEL = ORIGENS | {'ia'}
 CATEGORIAS = {'acougue', 'aves', 'peixaria', 'hortifruti', 'frios', 'padaria', 'outros'}
 

@@ -45,7 +45,8 @@ acervo), **só as que o dono do mercado aprovar**:
 Mostre as candidatas (imagem + EAN/nome) e pergunte. Aprovadas →
 `enviar <EAN> ...` / `enviar_granel <id> ...`; recusadas → `descartar ...`.
 `origem`: `propria`, `ia` (só granel), `industria`/`site` (exigem quem
-autorizou) ou `a confirmar`. Categorias de granel: `acougue`, `aves`,
+autorizou), `cosmos` (foto do Bluesoft Cosmos), `cosmos-ampliada` (foto do
+Cosmos aumentada por IA; só se a original tinha 500 px ou mais) ou `a confirmar`. Categorias de granel: `acougue`, `aves`,
 `peixaria`, `hortifruti`, `frios`, `padaria`, `outros`. Nunca use recorte de
 um cartaz/encarte pronto como foto de acervo (a arte costuma cobrir parte do
 produto). Regras completas: README do acervo-encarte.

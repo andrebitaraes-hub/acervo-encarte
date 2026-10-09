@@ -40,7 +40,10 @@ O repositório é público, então só entra foto que pode ser usada:
 - `origem: propria` — foto que você mesmo tirou ou tratou.
 - `origem: industria` ou `origem: site` — só com autorização. Nesse caso preencha também `autorizacao:` dizendo quem autorizou (ex.: `autorizacao: vendedor Fulano, Pif Paf, por e-mail em 23/09/2026`).
 
-Foto do Cosmos, de portal de indústria ou de site de fornecedor sem autorização não entra.
+- `origem: cosmos` — foto do catálogo Bluesoft Cosmos, buscada pelo código de barras (aceita desde 09/10/2026). Confira antes de enviar se é o produto, a gramatura e a embalagem certos, e uma unidade só.
+- `origem: cosmos-ampliada` — foto do Cosmos que veio pequena e foi aumentada por IA para caber no padrão. Só vale para foto que tinha pelo menos 500 pixels no lado maior e 350 no menor: abaixo disso a letra do rótulo sai deformada. Confira marca, gramatura e letra do rótulo depois de ampliar. A marca na ficha é obrigatória, para quem usar saber que não é a foto original.
+
+Foto de portal de indústria ou de site de fornecedor sem autorização não entra.
 
 **Durante o teste da ferramenta**, também é aceito `origem: a confirmar`. A foto entra, mas fica marcada como pendência no catálogo até alguém preencher a origem certa.
 
@@ -85,7 +88,7 @@ enviado_por: Mercopaulo
 
 ## Conferência automática
 
-Todo envio passa pelo `ferramentas/conferir.py`, que barra código de barras inválido (o último dígito confere os outros), imagem fora do padrão, pasta errada, imagem sem ficha e foto de terceiro sem autorização. Para rodar no seu computador:
+Todo envio passa pelo `ferramentas/conferir.py`, que barra código de barras inválido (o último dígito confere os outros), imagem fora do padrão, pasta errada, imagem sem ficha e foto de indústria ou de site sem autorização. Para rodar no seu computador:
 
 ```
 pip install pillow
