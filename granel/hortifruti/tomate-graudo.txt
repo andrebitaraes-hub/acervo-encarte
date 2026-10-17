@@ -1,0 +1,4 @@
+nome: Tomate graúdo
+apelidos: Tomate; Tomate longa vida; Tomate salada
+origem: a confirmar
+enviado_por: bot de encarte
