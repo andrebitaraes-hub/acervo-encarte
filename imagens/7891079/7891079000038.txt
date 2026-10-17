@@ -1,0 +1,6 @@
+descricao: Macarrão instantâneo Nissin Lámen sabor Galinha Caipira 85g
+marca: Nissin
+conteudo: 85g
+origem: cosmos
+autorizacao: 
+enviado_por: Claude (VPS), foto da Bluesoft
