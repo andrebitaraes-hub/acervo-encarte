@@ -1,0 +1,6 @@
+descricao: Cerveja Império puro malte lata 473ml
+marca: Império
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: bot de encarte
