@@ -1,0 +1,6 @@
+descricao: Creme de leite leve UHT Ibituruna 17% de gordura 200g
+marca: Ibituruna
+conteudo: 200g
+origem: a confirmar
+autorizacao: 
+enviado_por: bot do Telegram (recorte)
