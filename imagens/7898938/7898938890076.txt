@@ -1,0 +1,6 @@
+descricao: Energetico Monster Energy Zero Acucar 473ml
+marca: Monster
+conteudo: 473 ml
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
