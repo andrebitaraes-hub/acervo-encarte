@@ -1,0 +1,6 @@
+descricao: Energetico Monster Juice Pacific Punch 473ml
+marca: Monster
+conteudo: 473 ml
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
