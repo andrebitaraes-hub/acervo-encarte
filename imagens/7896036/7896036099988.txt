@@ -1,0 +1,6 @@
+descricao: Molho de Tomate Pomarola Tradicional Sachê 300g
+marca: Pomarola
+conteudo: 300 g
+origem: a confirmar
+autorizacao: 
+enviado_por: joel
