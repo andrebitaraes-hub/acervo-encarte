@@ -1,0 +1,6 @@
+descricao: Café 3 Corações Tradicional 500g
+marca: 3 Corações
+conteudo: 500 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
