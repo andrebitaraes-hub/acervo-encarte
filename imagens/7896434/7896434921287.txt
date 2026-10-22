@@ -1,0 +1,6 @@
+descricao: Creme de leite leve Triangulo Mineiro 200g
+marca: Triangulo Mineiro
+conteudo: 200 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
