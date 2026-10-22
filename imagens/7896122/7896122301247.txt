@@ -1,0 +1,6 @@
+descricao: Requeijão Cremoso Porto Alegre 200g
+marca: Porto Alegre
+conteudo: 200 g
+origem: cosmos-ampliada
+autorizacao: 
+enviado_por: Bluesoft
