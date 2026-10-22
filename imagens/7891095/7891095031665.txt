@@ -1,0 +1,6 @@
+descricao: Farofa de mandioca tradicional Yoki 400g
+marca: Yoki
+conteudo: 400 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
