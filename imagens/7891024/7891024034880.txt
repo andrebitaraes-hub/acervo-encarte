@@ -1,0 +1,6 @@
+descricao: Sabonete Palmolive Naturals Esfoliacao Delicada 85g
+marca: Palmolive
+conteudo: 85 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
