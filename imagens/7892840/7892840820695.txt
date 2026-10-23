@@ -1,0 +1,6 @@
+descricao: Isotônico Gatorade Zero laranja-lima garrafa 350ml
+marca: Gatorade
+conteudo: 350 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: site Amazon
