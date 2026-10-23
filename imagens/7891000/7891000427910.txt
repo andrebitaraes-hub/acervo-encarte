@@ -1,0 +1,6 @@
+descricao: Cereal Matinal Snow Flakes Fruits Nestle 240g
+marca: Nestle
+conteudo: 240g
+origem: cosmos-ampliada
+autorizacao: 
+enviado_por: Bluesoft
