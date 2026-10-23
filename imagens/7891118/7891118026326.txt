@@ -1,0 +1,6 @@
+descricao: Bala Butter Toffees Intense cacau sabor trufa 90g
+marca: Arcor
+conteudo: 90 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
