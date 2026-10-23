@@ -1,0 +1,6 @@
+descricao: Sabonete Palmolive Naturals oliva e aloe vera 85g
+marca: Palmolive
+conteudo: 85 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
