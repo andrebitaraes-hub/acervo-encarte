@@ -1,0 +1,6 @@
+descricao: Pato pastilha adesiva citrus 3 pastilhas
+marca: Pato
+conteudo: 3 un
+origem: a confirmar
+autorizacao: 
+enviado_por: Diego
