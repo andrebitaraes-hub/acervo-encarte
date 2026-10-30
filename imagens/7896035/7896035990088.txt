@@ -1,0 +1,6 @@
+descricao: Massa para tapioca Amafil 500g
+marca: Amafil
+conteudo: 500 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Diego
