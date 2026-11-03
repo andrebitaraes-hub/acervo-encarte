@@ -1,0 +1,6 @@
+descricao: Cerveja Corona Extra long neck 330ml
+marca: Corona
+conteudo: 330 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: site Supernosso
