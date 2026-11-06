@@ -1,0 +1,6 @@
+descricao: Chocolate Lacta Bis Original ao leite 100,8g
+marca: Lacta
+conteudo: 100,8 g
+origem: a confirmar
+autorizacao: 
+enviado_por: Diego
