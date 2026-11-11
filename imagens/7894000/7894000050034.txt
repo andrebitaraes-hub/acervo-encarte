@@ -1,0 +1,6 @@
+descricao: Maionese Hellmann's tradicional pote 500g
+marca: Hellmann's
+conteudo: 500 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
