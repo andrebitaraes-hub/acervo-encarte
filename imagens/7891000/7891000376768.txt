@@ -1,0 +1,6 @@
+descricao: Biscoito recheado Negresco chocolate com recheio baunilha Nestlé 90g
+marca: Nestlé
+conteudo: 90g
+origem: a confirmar
+autorizacao: 
+enviado_por: Diego
