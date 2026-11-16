@@ -3,4 +3,4 @@ marca: Michelob
 conteudo: 330 ml
 origem: a confirmar
 autorizacao: 
-enviado_por: Mercopaulo
+enviado_por: André
