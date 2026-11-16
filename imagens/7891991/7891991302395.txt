@@ -1,0 +1,6 @@
+descricao: Cerveja Skol Beats GT long neck 269ml
+marca: Skol
+conteudo: 269 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: André
