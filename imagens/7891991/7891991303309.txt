@@ -1,6 +1,6 @@
-descricao: Cerveja Stella Artois Puro Malte lata 473ml
+descricao: Cerveja Stella Artois lata 473ml
 marca: Stella Artois
-conteudo: 473 ml
+conteudo: 473ml
 origem: a confirmar
 autorizacao: 
-enviado_por: André
+enviado_por: Joel
