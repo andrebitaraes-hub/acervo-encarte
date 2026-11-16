@@ -1,0 +1,6 @@
+descricao: Cerveja Flying Fish Pilsen Pressed Lemon long neck 330ml
+marca: Flying Fish
+conteudo: 330 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: André
