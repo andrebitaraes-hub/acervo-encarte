@@ -1,0 +1,6 @@
+descricao: Gatorade Berry Blue 500ml
+marca: Gatorade
+conteudo: 500 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: André
