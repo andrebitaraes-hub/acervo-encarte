@@ -1,0 +1,6 @@
+descricao: Drink Pronto Beats Pink Lemonade Lata 269ml
+marca: Beats
+conteudo: 269 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

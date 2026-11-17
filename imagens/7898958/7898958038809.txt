@@ -1,0 +1,6 @@
+descricao: Molho de Pequi com Pimenta Massalho 150ml
+marca: Massalho
+conteudo: 150 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

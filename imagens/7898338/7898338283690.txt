@@ -1,0 +1,6 @@
+descricao: Frigideira Extra Forte Aloeste Nº 24 2,2 L
+marca: Aloeste
+conteudo: 2,2 L
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo

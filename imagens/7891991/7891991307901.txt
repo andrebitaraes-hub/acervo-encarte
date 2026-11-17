@@ -1,0 +1,6 @@
+descricao: Cerveja Flying Fish Limão Lata 473ml
+marca: Flying Fish
+conteudo: 473 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Mercopaulo
