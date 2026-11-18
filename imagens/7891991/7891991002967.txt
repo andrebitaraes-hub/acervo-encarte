@@ -1,0 +1,6 @@
+descricao: Refrigerante Guaraná Antarctica PET 600ml
+marca: Antarctica
+conteudo: 600 ml
+origem: a confirmar
+autorizacao: 
+enviado_por: Joel
