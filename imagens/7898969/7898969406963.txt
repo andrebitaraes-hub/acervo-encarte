@@ -1,0 +1,6 @@
+descricao: Cerveja Baixa Gastronomia Bruder 473ml
+marca: Bruder
+conteudo: 473 ml
+origem: cosmos-ampliada
+autorizacao: 
+enviado_por: Bluesoft
