@@ -1,0 +1,6 @@
+descricao: Ketchup Predilecta tradicional 400g
+marca: Predilecta
+conteudo: 400 g
+origem: cosmos
+autorizacao: 
+enviado_por: Bluesoft
